@@ -19,7 +19,7 @@ Proyek ini juga digunakan untuk berlatih membuat dokumentasi menggunakan file RE
 - IntelliJ IDEA atau VS Code sebagai IDE
 
 ## 📚 Informasi Proyek
-- Penulis : <Nama Kamu>
+- Penulis : <Nadhif_243>
 - Mata Kuliah : Pemrograman Lanjut
 - Universitas : Universitas Muhammadiyah Malang
 - Modul : 3 - Modern Programming Environment and Documentation Style
